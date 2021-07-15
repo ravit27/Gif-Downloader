@@ -1,4 +1,4 @@
-const api_key = 't7tf9zL138OHSp4bovZ8eR3g1ogcTWtL' // enter your api key
+const api_key = '' // enter your api key
 const search = document.querySelector("#search");
 search.addEventListener('keypress', (e) => {
     if (e.key === 'Enter') {
