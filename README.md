@@ -13,6 +13,8 @@ This extension allows a user to search and download GIF's on a local machine.
 
 ## Procedure to Install
 - You can download the root folder or fork it and clone to your local machine.
+- Sign up on developer.giphy.com
+- Genearte an API key and replace it in main.js file.
 - Then go to ``chrome://extensions`` or ``edge://extensions`` or ``brave://extensions`` depending on Chromium Browser.
 - Click load unpacked package and simply select the root folder.
 - Voila ! There's your Chrome Extension Up and Running.
